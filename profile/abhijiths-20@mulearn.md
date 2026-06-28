@@ -239,9 +239,7 @@ aspiring students.
 
 # Profile Card
 
-``` html
 <img
-src="https://mulearn.org/embed/rank/abhijiths-20@mulearn"
-width="400px">
-</img>
-```
+  src="https://mulearn.org/embed/rank/abhijiths-20@mulearn"
+  width="400"
+  alt="μLearn Profile Card">
